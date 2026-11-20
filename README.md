@@ -2,9 +2,6 @@
 
 > An interactive Power BI dashboard that turns 16 months of raw financial data into clear, fast, decision-ready insights — built with a focus on **backend engineering and UX**, not just visuals.
 
-![Dashboard Preview](images/dashboard-preview.png)
-<!-- Replace with a screenshot of your main page -->
-
 ---
 
 ## Project Overview
@@ -80,16 +77,6 @@ Most dashboards stop at visuals. This one was designed from the backend to deliv
 
 ---
 
-## Repository Structure
-
-```
-├── Data/              # Source financial data
-├── Dashboard/         # Power BI file (.pbix)
-├── images/            # Screenshots
-└── README.md
-```
-
----
 
 ## Notes
 
