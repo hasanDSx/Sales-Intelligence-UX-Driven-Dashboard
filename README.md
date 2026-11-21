@@ -1,4 +1,4 @@
-# Financial Performance Dashboard — Power BI
+# Sales Intelligence & UX-Driven Dashboard  — Power BI
 
 > An interactive Power BI dashboard that turns 16 months of raw financial data into clear, fast, decision-ready insights — built with a focus on **backend engineering and UX**, not just visuals.
 
@@ -76,8 +76,3 @@ Most dashboards stop at visuals. This one was designed from the backend to deliv
 | **Custom Tooltips** | Contextual detail on hover |
 
 ---
-
-
-## Notes
-
-The dataset covers 16 months, so the dashboard focuses on **descriptive analysis** of actual performance. No forecasting is included, because the history is too short to support reliable projections.
